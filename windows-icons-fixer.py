@@ -27,7 +27,7 @@ def kill_explorer():
 
 def start_explorer():
     '''
-    Kills explorer.exe
+    Starts explorer.exe
     '''
 
 
